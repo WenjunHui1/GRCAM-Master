@@ -9,7 +9,7 @@ Weakly supervised object localization locates objects based on the localization 
 
 # Trained model
 
-* Download <syntaxhighlight lang="md">[the trained models](http://example.com) on ImageNet at GoogleDrive.
+* Download [the trained models](https://drive.google.com/drive/folders/1dLa44PWKYsYVvM9hfWqIVvikx2CCF2IO?usp=sharing) on ImageNet at GoogleDrive.
 
 # Pre-requisites
   
