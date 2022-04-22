@@ -25,7 +25,7 @@ Weakly supervised object localization locates objects based on the localization 
 # Localization
   
 ![image](https://user-images.githubusercontent.com/103172926/164706678-8f3be781-9fca-4951-8dd6-2ec31cd5ab2b.png)
-![image](https://user-images.githubusercontent.com/103172926/164706755-4c887dcf-9df0-4619-b86d-6d331eefe203.png
+![image](https://user-images.githubusercontent.com/103172926/164706755-4c887dcf-9df0-4619-b86d-6d331eefe203.png)
 
 # Test
   
